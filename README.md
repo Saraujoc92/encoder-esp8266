@@ -1,5 +1,4 @@
-# Blink Example
+# Rotary Encoder
 
-Starts a FreeRTOS task to blink an LED
+Sets interruption based tick counter for rotary encoders.
 
-See the README.md file in the upper level 'examples' directory for more information about examples.
