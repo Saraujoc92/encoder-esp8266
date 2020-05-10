@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/Users/saraujoc/Personal/esp8266/blink/build/CMakeFiles/mconf-idf
+/Users/saraujoc/Personal/esp8266/blink/build/CMakeFiles/mconf-idf.rule
+/Users/saraujoc/Personal/esp8266/blink/build/CMakeFiles/mconf-idf-complete.rule
+/Users/saraujoc/Personal/esp8266/blink/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/Users/saraujoc/Personal/esp8266/blink/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/Users/saraujoc/Personal/esp8266/blink/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/Users/saraujoc/Personal/esp8266/blink/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/Users/saraujoc/Personal/esp8266/blink/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/Users/saraujoc/Personal/esp8266/blink/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/Users/saraujoc/Personal/esp8266/blink/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
