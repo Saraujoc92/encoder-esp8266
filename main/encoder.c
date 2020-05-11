@@ -50,7 +50,7 @@ void gpio_isr_b_handler(void *arg) {
     b_state = new_b_state;
 }
 
-void setup() {
+void encoder_setup() {
     /* Set the GPIO as a pull input */
     gpio_config_t io_conf;
     io_conf.intr_type = GPIO_INTR_POSEDGE;
@@ -66,9 +66,9 @@ void setup() {
     gpio_isr_handler_add(ENCODER_GPIO_B, gpio_isr_b_handler, (void *) ENCODER_GPIO_B);
 }
 
-void app_main()
+void app_main_old()
 {
-    setup();
+    encoder_setup();
     while(1) {
         vTaskDelay(100 / portTICK_RATE_MS);
         printf("tick_count %d\n", tick_count);
